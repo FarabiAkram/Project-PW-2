@@ -1,0 +1,10 @@
+Nama: Muhammad Farabi Akram Dzikrika
+NIM: 0110223212
+Rombel: TI-07
+
+---INFO LOGIN---
+username: farabi
+password: ka la2
+
+username: nevada
+password: freaxy77
